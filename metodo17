@@ -1,0 +1,17 @@
+package tareairahan17;
+public class TareaIrahan17 {
+	public static void main(String[] args) {
+		int resul;
+		resul=div(60,3);
+		imprimir(resul);
+		}
+	public static int div(int a, int b){
+		int div=a/b;
+		return div;
+	}
+	public static void imprimir(int div){
+		System.out.println("el resultado de la divicion es: "+div);
+
+	}
+
+}
