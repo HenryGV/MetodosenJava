@@ -1,0 +1,15 @@
+package tareairahan2;
+public class TareaIrahan2 {
+	
+	public static void main(String[] args){
+		restar(10,45);
+	}
+		public  static void restar( int a, int b) {
+			
+     int restar;
+		restar = a-b;
+			
+					System.out.println("La resta es:"+restar);
+		}
+ 
+	}
