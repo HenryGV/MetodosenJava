@@ -1,0 +1,11 @@
+package tareairahan5;
+public class TareaIrahan5 {
+	public static void main(String[] args) {
+	multiplicar();
+	}
+	public static void multiplicar(){
+	int a=4, b=8;
+	int multiplicar= a*b;
+	System.out.println("El resultado  de la multiplicacionnes:"+multiplicar );
+	}
+	}
