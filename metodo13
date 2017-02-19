@@ -1,0 +1,17 @@
+package tareairahan13;
+public class TareaIrahan13 {
+
+public void iniciar(){
+	int resta = resta();
+	System.out.println("El resultado de la resta es: " + resta);
+	}
+
+	public int resta(){
+	int u = 22;
+	int v = 15;
+	int resultado = u-v;
+	return resultado;
+
+
+}
+}
