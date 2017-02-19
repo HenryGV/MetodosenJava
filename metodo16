@@ -1,0 +1,19 @@
+package tareairahan16;
+public class TareaIrahan16 {
+		public static void main(String[] args) {
+			int resul;
+			resul=restar(22,15);
+			imprimir(resul);
+			}
+		public static int restar(int a, int b){
+			int resta=a-b;
+			return resta;
+		}
+		public static void imprimir(int a){
+			System.out.println("el resultado de la resta es: "+a);
+
+
+		}
+
+
+	}
