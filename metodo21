@@ -1,0 +1,17 @@
+package tareairahan21;
+public class TareaIrahan21 {
+	public static void main(String args[]){
+	}
+	public void iniciar(){
+		int div = div();
+	
+		}
+		public int div(){
+		int x = 22;
+		int y = 18;
+		int resultado = (a/b);
+		return resultado;
+    	System.out.println("El resultado de la division es: " + div);
+
+	}
+	}
