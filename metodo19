@@ -1,0 +1,16 @@
+package tareairahan19;
+public class TareaIrahan19 {
+	public static void main(String[] args) {
+		int resul;
+		resul=mult(22,15);
+		imprimir(resul);
+		}
+	public static int mult(int a, int b){
+		int mult=a*b;
+		return mult;
+	}
+	public static void imprimir(int mult){
+		System.out.println("el resultado de la resta es: "+mut);
+	}
+
+}
