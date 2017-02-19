@@ -1,0 +1,21 @@
+package tareairahan11;
+public class TareaIrahan11{
+
+
+	public static void main(String[] args) {
+restar(45,8);
+sumar(22,18);
+	}
+		public  static void restar( int a, int b) {
+			int restar;
+			restar = a-b;
+			
+					System.out.println("El resultado de la resta es:"+restar);
+		
+}
+	public  static void sumar( int a, int b) {
+		int sumar;
+		sumar =a+b ;
+    System.out.println("El resultado de la sunma es:"+sumar);
+    }
+    }
