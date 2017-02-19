@@ -1,0 +1,11 @@
+package tareairahan3;
+public class TareaIrahan3 {
+	public static void main(String[] args) {
+		resta();
+		}
+		public static void resta(){
+		int a=10, b=8;
+		int resta= a-b;
+		System.out.println("El resultado es:"+resta );
+		}
+		}
