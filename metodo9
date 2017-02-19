@@ -1,0 +1,15 @@
+package tareairahan9;
+public class TareaIrahan9 {
+
+
+	public static void main(String[] args) {
+		mult(8,9);
+	}
+		public  static void mult( int a, int b) {
+			int mul;
+			mul = a*b;
+			
+					System.out.println("El resultado de la multiplicacion es:"+mul);
+		}
+ 
+	}
