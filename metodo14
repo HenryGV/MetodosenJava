@@ -1,0 +1,20 @@
+package tareairahan14;
+public class TareaIrahan14 {
+	public static void main(String[]arg){
+		
+	}
+	public void sumar(){
+					int multi=multi();
+					System.out.println("El resultado de la Multiplicacion es: " +multi);
+					}
+
+					public int multi(){
+					int a = 22;
+					int b = 15;
+					int resultado = a*b;
+					return resultado;
+				
+	}
+
+
+}
