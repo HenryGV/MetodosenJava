@@ -1,0 +1,13 @@
+package tareairahan8;
+public class TareaIrahan8 {
+	public static void main(String[] args) {
+  sumar(67,9);
+		
+	}
+		public  static void sumar( int a, int b) {
+			int sumar;
+			sumar= a+b;
+					System.out.println("El resultado de la suma es:"+sumar);
+		
+	}
+}
