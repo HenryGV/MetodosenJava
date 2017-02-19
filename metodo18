@@ -1,0 +1,16 @@
+package tareairahan18;
+public class TareaIrahan18 {
+	public static void main(String[] args) {
+		int resul;
+		resul=suma(22,15);
+		imprimir(resul);
+		}
+	public static int suma(int a, int b){
+		int suma=x+y;
+		return suma;
+	}
+	public static void imprimir(int a){
+		System.out.println("el resultado de la suma es: "+a);
+	}
+
+}
