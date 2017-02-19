@@ -1,0 +1,13 @@
+package tareairahan7;
+public class TareaIrahan7 {
+	public static void main(String[] args) {
+		div(6,2);
+	}
+		public  static void div( int g, int f) {
+			int div;
+			div = g/f;
+			
+					System.out.println("El resultado de la division es:"+div);
+	
+	}
+}
