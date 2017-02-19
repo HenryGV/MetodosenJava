@@ -1,0 +1,11 @@
+package tareairahan6;
+public class TareaIrahan6 {
+	public static void main(String[] args) {
+		dividir();
+		}
+		public static void dividir(){
+		int a=10, b=2;
+		int dividir= a/b;
+		System.out.println("El resultado de dividir es:"+dividir);
+		}
+		}
