@@ -1,0 +1,19 @@
+package tareairahan10;
+
+public class TareaIrahan10 {
+
+
+public static void main(String args[]){}
+public void iniciar(){
+			int suma = suma();
+			
+			System.out.println("El resultado de la suma es: " + suma);
+			}
+			public int suma(){
+			int a = 5;
+			int b = 2;
+			int resultado = a+b;
+			return resultado;
+	}
+
+ }
